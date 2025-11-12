@@ -1,4 +1,4 @@
-# Python for Quickstart Qualitative Data
+# Python Quickstart For Qualitative Data
 
 This repository provides hands-on, self-learning notebooks for starting to use Python for working with qualitative data. It builds on the basics covered in [Python Foundations via Mind Map](https://github.com/Data-Science-Center-UB/Python-Foundations-via-Mind-Map/) and applies them to the very basics of common qualitative workflows: reading text sources, organizing and coding data, and producing simple summaries. Short examples and small exercises make concepts concrete. Notebooks were prepared with greatest care, but no guarantee of correctness can be given.
 
