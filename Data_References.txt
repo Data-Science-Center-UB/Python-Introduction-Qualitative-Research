@@ -1,4 +1,5 @@
-- sample_articles_10000.json: Modified from: Misra, R. (2018): News Category Dataset – HuffPost Articles. Available at: https://www.kaggle.com/datasets/rmisra/news-category-dataset. Accessed on: 8 May 2025.
-- Titanic-Dataset.csv: Yasser, H. (2020): Titanic Dataset – Machine Learning from Disaster. Available at: https://www.kaggle.com/datasets/yasserh/titanic-dataset. Accessed on: 8 May 2025.
-- World-happiness-report-2024.csv: Jain, A. (2024): World Happiness Report – Yearly Updated (2024). Available at: https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated. Accessed on: 8 May 2025.
-- /Interviews_ClimateChange: Annika Nolte (2025)
+- all_headlines.txt & sample_articles_10000.json: Modified from: Misra, R. (2018): News Category Dataset – HuffPost Articles. Available at: https://www.kaggle.com/datasets/rmisra/news-category-dataset. Accessed on: 8 May 2025.
+- kids-books-animals.csv: Walsh, M., R. Samora, M. Pera-McGhee & J. Diehm (2025): Bears Will Be Boys – data on animals in children’s books (The Pudding). Available at: https://github.com/the-pudding/kids-book-animals/tree/main/static/assets/data. Accessed on: 2 November 2025.
+- the-story-of-the-little-mole_transcript.txt: Holzwarth, W. & W. Erlbruch (1989): The Story of the Little Mole Who Knew It Was None of His Business – transcript of English read-aloud video (YouTube). Transcript based on: https://www.youtube.com/watch?v=plzwDLnieAk. Accessed on: 10 December 2025.
+- wikipedia-article.csv: Wikipedia (2025): Democracy – article on Wikipedia, The Free Encyclopedia. Available at: https://en.wikipedia.org/wiki/Democracy. Accessed on: 10 December 2025.
+- /evaluation_comments: Nolte, A. (2025)
