@@ -11,8 +11,8 @@ The repository consists of:
 Data_References.txt (provides references for the datasets included in the /Data folder) <br>
 SETUP.md (orientation for Python installation and environment management)
 
+<img src="./Images/PythonMindmap.png" style="width: 1400px;">
+
 >About the project
 >
 >This repository was developed and delivered as part of workshops within the framework of the DataNord project at the Data Science Center of the University of Bremen. The DataNord project is funded under the grant number 16DKZ2026A by the Federal Ministry of Research, Technology and Space (BMFTR) >and financed by the European Union – NextGenerationEU. It is part of a broader initiative to strengthen data literacy among researchers by offering practical, hands-on training in core areas of 1) data science, 2) research data management (RDM), 3) critical thinking, and 4) ethical, legal and social aspects (ELSA). The materials were developed by Annika Nolte and Nele Fuchs.
-
-<img src="./Images/PythonMindmap.png" style="width: 1400px;">
